@@ -36,7 +36,7 @@
     "earcut": "^2.0.7",
     "eventemitter3": "^1.1.1",
     "object-assign": "^4.0.1",
-    "resource-loader": "^1.6.4"
+    "resource-loader": "git+https://github.com/apexearth/resource-loader.git"
   },
   "devDependencies": {
     "browserify": "^11.1.0",

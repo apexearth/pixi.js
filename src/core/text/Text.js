@@ -2,7 +2,8 @@ var Sprite = require('../sprites/Sprite'),
     Texture = require('../textures/Texture'),
     math = require('../math'),
     utils = require('../utils'),
-    CONST = require('../const');
+    CONST = require('../const'),
+    document = require("../../browser.js").document;
 
 /**
  * A Text Object will create a line or multiple lines of text. To split a line you can use '\n' in your text string,
